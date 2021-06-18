@@ -1,44 +1,38 @@
-name: Ian Li
+name: Yuanhong Wang
 
-label: UI Designer
+label: Ph.D.
 
-picture: /img/profile-picture.jpg
+picture: /img/selfie.jpg
 
-email: ianli@ianli.com
+email: lucienwang@buaa.edu.cn
 
 phone: 
 
-department: Android UX
+department: 
 
-institution: Google
+institution: Beihang University
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  No.37, Xueyuan St, 
+  Beijing, China
 
 profiles:
   - 
     network: Google Scholar
     username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=08i0uJcAAAAJ&hl=en
   -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    url: https://www.linkedin.com/in/yuanhong-wang-61859a108/
   -
-    network: Twitter
+    network: Github
     username: ianli
-    url: https://twitter.com/ianli/
+    url: https://github.com/lucienwang1009
 
 intro:
-  title: Hello!
+  title: Greetings!
   body: >
-    I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the 
-    [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were 
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and 
-    [Jodi Forlizzi](http://goodgestreet.com/). 
-    I worked on designed and developed 
-    [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
-    [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
+    I am currently a Ph.D. student at Beihang University.
+    My main research interests lie in relational statistic learning theory and graph mining, designing and analyzing machine learning algorithms for structure data from both          theoretical and practice aspects.
+    I also have some experiences about building deep learning framework and benchmarking its performace.
