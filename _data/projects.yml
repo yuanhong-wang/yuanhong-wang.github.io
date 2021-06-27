@@ -1,11 +1,8 @@
-# -
-#   name: 'Personal Informatics &amp; Context: Using Context to Reveal Factors that Affect Behavior'
-#   description: >
-#     My Ph.D. thesis explores the use of contextual information in personal informatics systems to help users understand the factors that affect their behavior. 
-#     Most personal informatics systems only show one type of behavioral information, which makes it difficult to discover the factors that affect one's behavior. 
-#     Supporting exploration of multiple types of contextual and behavioral information in a single interface may help.
-#   image: /img/phd-thesis.png
-#   url: http://ianli.com/thesis/
+-
+  name: Fast Algorithms for Relational Marginal Polytopes
+  # description: >
+  image: /img/polytopefrsmfr_7.png
+  url: https://github.com/lucienwang1009/marginal_polytope
 # -
 #   name: Model of Personal Informatics Systems
 #   description: >
