@@ -2,7 +2,7 @@
   type: conference
   title: "Fast Algorithms for Relational Marginal Polytopes"
   authors: Yuanhong Wang, Timothy van Bremen, Juhua Pu, Yuyi Wang, Ondrˇej Kuzˇelka
-  conference: the 30th International Joint Conference on Artificial Intelligence (IJCAI-21)
+  conference: the 30th International Joint Conference on Artificial Intelligence (IJCAI)
   year: 2021
   pdf: papers/irmp.pdf
 -
@@ -27,7 +27,7 @@
   type: conference
   title: "On the ERM principle with networked data"
   authors: Yuanhong Wang, Yuyi Wang, Xingwu Liu, and Juhua Pu
-  conference: Thirty-Second AAAI Conference on Artificial Intelligence
+  conference: Thirty-Second AAAI Conference on Artificial Intelligence (AAAI)
   volume: 32
   year: 2018
   pdf: papers/AAAI2018.pdf
@@ -36,7 +36,7 @@
   type: conference
   title: "Detecting Anomaly in Traffic Flow from Road Similarity Analysis"
   authors: Xinran Liu, Xingwu Liu, Yuanhong Wang, Juhua Pu, Xiangliang Zhang
-  conference: International Conference on Web-Age Information Management
+  conference: International Conference on Web-Age Information Management (WAIM)
   year: 2016
   pages: 92-104
   pdf: papers/WAIM2016.pdf
