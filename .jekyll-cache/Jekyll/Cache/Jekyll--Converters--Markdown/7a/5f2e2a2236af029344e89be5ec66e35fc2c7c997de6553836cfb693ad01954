@@ -1,0 +1,77 @@
+I"�<h2 id="about-me">About Me</h2>
+
+<p>Greetings! I am currently a second-year Ph.D. student at Beihang University.
+My main research interests lie in relational statistic learning theory and graph mining, designing and analyzing machine learning algorithms for structure data from both          theoretical and practice aspects.
+I also have some experiences about building deep learning framework and benchmarking its performace.
+I am supervised by <a href="http://scse.buaa.edu.cn/info/1183/8281.htm">Juhua Pu</a>.
+I am lucky to collaborate with <a href="https://disco.ethz.ch/members/yuwang">Yuyi Wang</a> and <a href="https://ida.fel.cvut.cz/~kuzelka/">Ondřej Kuželka</a>.</p>
+
+<h2 id="research-interests">Research Interests</h2>
+
+<ul>
+  <li><strong>Statistical Machine Learning:</strong> Lifted Inference and Sampling, non-i.i.d. Learning</li>
+  <li><strong>Data Mining:</strong> Graph Mining, Recommendation</li>
+</ul>
+
+<h2 id="news">News</h2>
+
+<ul>
+  <li><strong>[Feb. 2021]</strong> Our paper about relational marginal polytope and approximate WFOMC is accepted to IJCAI 2021.</li>
+</ul>
+
+<h2 id="publications">Publications</h2>
+
+<ul>
+  <li>
+    <p><strong>Fast Algorithms for Relational Marginal Polytopes</strong>
+<br />
+<strong>Yuanhong Wang</strong>, Timothy van Bremen, Juhua Pu, Yuyi Wang, Ondrej Kuzelka
+<br />
+International Joint Conference on Artificial Intelligence. <strong>IJCAI 2021</strong>.
+<br />
+[<a href="./assets/papers/irmp.pdf">PDF</a>]
+<!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> --></p>
+  </li>
+  <li>
+    <p><strong>AMENDER: An attentive and aggregate multi-layered network for dataset recommendation</strong>
+<br />
+Yujun Chen, <strong>Yuanhong Wang</strong>, Yutao Zhang, Juhua Pu, Xiangliang Zhang
+<br />
+IEEE International Conference on Data Mining. <strong>ICDM 2019</strong>.
+<br />
+[<a href="./assets/papers/ICDM2019.pdf">PDF</a>] <i>Short paper</i></p>
+  </li>
+  <li>
+    <p><strong>NEGAN: Network embedding based on generative adversarial networks</strong>
+<br />
+Ban Yinfeng, Juhua Pu, Yujun Chen, <strong>Yuanhong Wang</strong>
+<br />
+International Joint Conference on Neural Networks. <strong>IJCNN 2018</strong>.
+<br />
+[<a href="./assets/papers/IJCNN2018.pdf">PDF</a>]</p>
+  </li>
+  <li>
+    <p><strong>On the ERM principle with networked data</strong>
+<br />
+<strong>Yuanhong Wang</strong>, Yuyi Wang, Xingwu Liu, and Juhua Pu
+<br />
+Thirty-Second AAAI Conference on Artificial Intelligence. <strong>AAAI 2018</strong>.
+<br />
+[<a href="./assets/papers/AAAI2018.pdf">PDF</a>]</p>
+  </li>
+  <li>
+    <p><strong>Detecting Anomaly in Traffic Flow from Road Similarity Analysis</strong>
+<br />
+Xinran Liu, Xingwu Liu, <strong>Yuanhong Wang</strong>, Juhua Pu, Xiangliang Zhang
+<br />
+International Conference on Web-Age Information Management <strong>WAIM 2016</strong>.
+<br />
+[<a href="./assets/papers/WAIM2016.pdf">PDF</a>]</p>
+  </li>
+</ul>
+
+<!-- ## Services
+
+- Conference Reviewers: NeurIPS 2020, CVPR 2020.
+- Journal Reviewers: T-PAMI, IJCV. -->
+:ET

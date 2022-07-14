@@ -1,68 +1,141 @@
-# [Elbowpatched Boilerplate](http://elbowpatched.com)
+# The Minimal Light Theme
 
-Elbowpatched Boilerplate is a template to make it easier to create an academic personal website.
-It is built using [Jekyll](http://jekyllrb.com/), a simple, blog-aware, static site generator.
-Since this template is built on Jekyll, 
-you can publish your website on [GitHub Pages](https://pages.github.com/) for free.
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
+[![gem](https://img.shields.io/gem/v/minimal-light?style=flat-square&logo=rubygems&color=E9573F)](https://rubygems.org/gems/minimal-light)
+[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg?style=flat-square&logo=jekyll)](https://jekyllrb.com/)
+[![Build Status](https://img.shields.io/travis/com/yaoyao-liu/minimal-light?style=flat-square&logo=travis-ci&color=3EAAAF)](https://travis-ci.com/yaoyao-liu/minimal-light)
 
-* Source: [https://github.com/ianli/elbowpatched-boilerplate](https://github.com/ianli/elbowpatched-boilerplate)
-* Homepage: [http://elbowpatched.com](http://elbowpatched.com)
-* Twitter: [@elbowpatched](http://twitter.com/elbowpatched)
+\[[Demo the theme](https://minimal-light.yyliu.net/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
 
+**Update: The latest version of my homepage is available [here](https://github.com/yaoyao-liu/homepage).**
+ 
+*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
+<br>
+*Feel free to use and share the source code anywhere you like.*
 
-## Why?
+## Features
 
-As a scholar, having an academic personal website can be a good way for you to publicize your research.
-Your website can have descriptions of your research projects, 
-a list of your published papers, 
-and links to your slides and video presentations.
+- Simple and elegant personal homepage theme
+- Jekyll theme, deploy automatically by GitHub pages
+- Basic Search Engine Optimization
+- Mobile friendly
+- Support Markdown 
+- Support dark mode
 
-However, creating an academic personal website takes a lot of time.
-Time that you also have to spend reading papers, conducting studies, analyzing data, and writing papers.
+## Usage
 
-Elbowpatched Boilerplate is here to help!
-It has the following features that make it easier to create an academic personal website.
+### Using on GitHub 
 
-* Fill out simple files with information about yourself, your publications, projects, and presentations.
-* Use the provided templates or create your own to change the presentation of your content.
-* Publish your website on GitHub Pages for free.
+To use this theme, add the following to your repository's `_config.yml`:
 
+```yaml
+remote_theme: yaoyao-liu/minimal-light
+```
 
-## Quick start
+Please note that adding the above line will directly apply all the default settings in this repository to yours.
 
-* Clone the git repo - `git clone https://github.com/ianli/elbowpatched-boilerplate.git`.
-* Setup and run [Jekyll](http://jekyllrb.com/).
-* Edit the contents of the [YAML](http://en.wikipedia.org/wiki/YAML) files in the folder `_data`.
-  * `personal.yml` - Your personal information
-  * `publications.yml` - Bibliography of your publications
-  * `projects.yml` - Descriptions of your projects with pictures
-  * `presentations.yml` - Your presentations with links to slides
-* Preview your website at `index.html`
+If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
 
+You may also fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
 
-## Layouts
+Then you need to enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
 
-Elbowpatched Boilerplate currently only has one template that you can use: 
-[Albertine](https://github.com/ianli/elbowpatched-boilerplate/blob/gh-pages/_layouts/albertine.html).
-Feel free to modify it to your needs.
-I will add more layouts as this project progresses.
+#### Using a custom domain on GitHub
 
-If you want to create a new template, take a look at 
-[Albertine](https://github.com/ianli/elbowpatched-boilerplate/blob/gh-pages/_layouts/albertine.html) 
-for inspiration. 
-The [Templates documentation](http://jekyllrb.com/docs/templates/) on the Jekyll site and
-[Liquid Basics](http://docs.shopify.com/themes/liquid-documentation/basics) 
-are good introductions to Liquid, the template language of Jekyll.
+Add a `CNAME` DNS record to your domain as follows:
+```
+Host: whatever you want. e.g., "www" 
+Target / Canonical name: your-username.github.io.
+TTL: 10 min
+```
+You may also add an `A` DNS record instead of the `CNAME` record as follows:
+```
+Host: whatever you want. e.g., "www" or "@"
+IP: 185.199.108.153
+    185.199.109.153
+    185.199.110.153
+    185.199.111.153
+TTL: 10 min
+```
 
+Then, change the contents of the [CNAME](./CNAME) file in this repository to your domain.
 
-## Publishing options
+### Using Locally with Jekyll
 
-When you're ready to publish your website, you have two options:
+*You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
 
-1. Publish on GitHub Pages - [instructions](https://pages.github.com/).
-2. Publish on your own webserver - [instructions](http://jekyllrb.com/docs/deployment-methods/).
+Clone this repository:
 
+```bash
+git clone https://github.com/yaoyao-liu/minimal-light.git
+cd minimal-light
+```
+Install and run:
+
+```bash
+bundle install
+bundle exec jekyll server
+```
+View the live page using `localhost`:
+<http://localhost:4000>. You can get the html files in `_site` folder.
+
+## Customizing
+
+### Configuration variables
+
+The Minimal Light theme will respect the following variables, if set in your site's `_config.yml`:
+
+  ```yaml
+title: Your Name
+affiliation: Your Affiliation
+email: yourname (at) example.edu
+google_scholar: https://scholar.google.com/
+github_link: https://github.com/yaoyao-liu/minimal-light
+linkedin: https://www.linkedin.com/
+avatar: ./assets/img/avatar.png
+google_analytics: UA-111540567-4
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light.yyliu.net/
+remote_theme: yaoyao-liu/minimal-light
+  ```
+### Editing `index.md`
+
+Create `index.md` and add your personal information (e.g. publications, research).
+
+### Stylesheet
+
+If you'd like to add your own custom styles:
+
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+
+    ```scss
+    ---
+    ---
+
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+
+### Layouts
+
+If you'd like to change the theme's HTML layout:
+
+1. [Copy the original template](https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+2. Create a file called `/_layouts/homepage.html` in your site
+3. Paste the default layout content copied in the first step
+4. Customize the layout as you'd like
 
 ## License
 
-See [LICENSE](https://github.com/ianli/elbowpatched-boilerplate/blob/gh-pages/LICENSE).
+This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) License.
+
+## Acknowledgements
+
+Our project uses the source code from the following repositories:
+
+* [pages-themes/minimal](https://github.com/pages-themes/minimal)
+
+* [orderedlist/minimal](https://github.com/orderedlist/minimal)
