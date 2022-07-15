@@ -26,7 +26,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   **Yuanhong Wang**, Timothy van Bremen, Juhua Pu, Yuyi Wang, Ondrej Kuzelka
   <br>
   International Joint Conference on Artificial Intelligence. **IJCAI 2021**.
-  <br>
+  <br><i>Oral</i>
   [[PDF](./assets/papers/irmp.pdf)]
   <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
@@ -51,7 +51,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   **Yuanhong Wang**, Yuyi Wang, Xingwu Liu, and Juhua Pu
   <br>
   Thirty-Second AAAI Conference on Artificial Intelligence. **AAAI 2018**.
-  <br>
+  <br><i>Oral</i>
   [[PDF](./assets/papers/AAAI2018.pdf)]
 
 - **Detecting Anomaly in Traffic Flow from Road Similarity Analysis**
