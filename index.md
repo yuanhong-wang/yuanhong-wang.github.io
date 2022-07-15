@@ -26,8 +26,8 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   **Yuanhong Wang**, Timothy van Bremen, Juhua Pu, Yuyi Wang, Ondrej Kuzelka
   <br>
   International Joint Conference on Artificial Intelligence. **IJCAI 2021**.
-  <br><i>Oral</i>
-  [[PDF](./assets/papers/irmp.pdf)]
+  <br>
+  [[PDF](./assets/papers/irmp.pdf)]<i>Oral</i>
   <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
 - **AMENDER: An attentive and aggregate multi-layered network for dataset recommendation**
@@ -51,8 +51,8 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   **Yuanhong Wang**, Yuyi Wang, Xingwu Liu, and Juhua Pu
   <br>
   Thirty-Second AAAI Conference on Artificial Intelligence. **AAAI 2018**.
-  <br><i>Oral</i>
-  [[PDF](./assets/papers/AAAI2018.pdf)]
+  <br>
+  [[PDF](./assets/papers/AAAI2018.pdf)]<i>Oral</i>
 
 - **Detecting Anomaly in Traffic Flow from Road Similarity Analysis**
   <br>
