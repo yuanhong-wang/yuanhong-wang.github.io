@@ -11,7 +11,7 @@ I am supervised by [Juhua Pu](http://scse.buaa.edu.cn/info/1183/8281.htm).
 I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang) and [Ondřej Kuželka](https://ida.fel.cvut.cz/~kuzelka/).
 
 I received my master's degree in Computer Science at Beihang University and bachelor's degree in Mathematics at Beijing Jiaotong University.
-I was an SDE with Microsoft at Beijing before enrolling in the Ph.D. program.
+I was an SDE with Microsoft China before enrolling in the Ph.D. program.
 
 ## Research Interests
 

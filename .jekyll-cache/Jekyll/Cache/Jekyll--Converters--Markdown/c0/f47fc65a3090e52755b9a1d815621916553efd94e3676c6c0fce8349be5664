@@ -1,10 +1,13 @@
-I"�<h2 id="about-me">About Me</h2>
+I"�<h2 id="about-me">About Me</h2>
 
 <p>Greetings! I am currently a second-year Ph.D. student at Beihang University.
 My main research interests lie in relational statistic learning theory and graph mining, designing and analyzing machine learning algorithms for structure data from both          theoretical and practice aspects.
 I also have some experiences about building deep learning framework and benchmarking its performace.
 I am supervised by <a href="http://scse.buaa.edu.cn/info/1183/8281.htm">Juhua Pu</a>.
 I am lucky to collaborate with <a href="https://disco.ethz.ch/members/yuwang">Yuyi Wang</a> and <a href="https://ida.fel.cvut.cz/~kuzelka/">Ondřej Kuželka</a>.</p>
+
+<p>I received my master’s degree in Computer Science at Beihang University and bachelor’s degree in Mathematics at Beijing Jiaotong University.
+I was an SDE with Microsoft China before enrolling in the Ph.D. program.</p>
 
 <h2 id="research-interests">Research Interests</h2>
 
@@ -29,7 +32,7 @@ I am lucky to collaborate with <a href="https://disco.ethz.ch/members/yuwang">Yu
 <br />
 International Joint Conference on Artificial Intelligence. <strong>IJCAI 2021</strong>.
 <br />
-[<a href="./assets/papers/irmp.pdf">PDF</a>]
+[<a href="./assets/papers/irmp.pdf">PDF</a>]<i>Oral</i>
 <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> --></p>
   </li>
   <li>
@@ -57,7 +60,7 @@ International Joint Conference on Neural Networks. <strong>IJCNN 2018</strong>.
 <br />
 Thirty-Second AAAI Conference on Artificial Intelligence. <strong>AAAI 2018</strong>.
 <br />
-[<a href="./assets/papers/AAAI2018.pdf">PDF</a>]</p>
+[<a href="./assets/papers/AAAI2018.pdf">PDF</a>]<i>Oral</i></p>
   </li>
   <li>
     <p><strong>Detecting Anomaly in Traffic Flow from Road Similarity Analysis</strong>

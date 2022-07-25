@@ -1,54 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <title>Yuanhong Wang | Beihang University</title>
-
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.">
-    
-    <meta name="keywords" content="lucien homepage">
-    
-    
-    <link rel="canonical" href="https://minimal-light.yyliu.net/"/>
-    
-
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="" type="image/png" />
-    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
-
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
-
-    <link rel="stylesheet" href="./assets/css/style.css">
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        
-        
-        <a class="image avatar"><img src="./assets/img/avatar.png" alt="avatar" onContextMenu="return false" /></a>
-        
-
-        <h1>Yuanhong Wang</h1> 
-        
-        
-        Ph.D. Student
-        <br>
-        
-        Beihang University
-        
-        <br>
-        lucienwang [at] buaa [dot] edu [dot] cn
-        <br>
-        <br>
-        
-
-      </header>
-      <section>
-
-      <h2 id="about-me">About Me</h2>
+I"�<h2 id="about-me">About Me</h2>
 
 <p>Greetings! I am currently a second-year Ph.D. student at Beihang University.
 My main research interests lie in relational statistic learning theory and graph mining, designing and analyzing machine learning algorithms for structure data from both          theoretical and practice aspects.
@@ -57,7 +7,8 @@ I am supervised by <a href="http://scse.buaa.edu.cn/info/1183/8281.htm">Juhua Pu
 I am lucky to collaborate with <a href="https://disco.ethz.ch/members/yuwang">Yuyi Wang</a> and <a href="https://ida.fel.cvut.cz/~kuzelka/">Ondřej Kuželka</a>.</p>
 
 <p>I received my master’s degree in Computer Science at Beihang University and bachelor’s degree in Mathematics at Beijing Jiaotong University.
-I was an SDE with Microsoft China before enrolling in the Ph.D. program.</p>
+I was an SDE with Microsoft China before enrolling in the Ph.D. program.
+&lt;/pre&gt;</p>
 
 <h2 id="research-interests">Research Interests</h2>
 
@@ -127,38 +78,4 @@ International Conference on Web-Age Information Management <strong>WAIM 2016</st
 
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
 - Journal Reviewers: T-PAMI, IJCV. -->
-
-
-      <br>
-
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-
-      </section>
-      <footer>
-        <div class="social-icons">
-
-          
-          <a href="https://www.linkedin.com/in/yuanhong-wang-61859a108/" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-          
-          
-          <a href="https://scholar.google.com/citations?user=08i0uJcAAAAJ&hl=en" target="_blank">
-            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
-          </a>
-          
-                      
-          <a href="https://github.com/lucienwang1009" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-          
-        </div>
-        <br>
-        <br>
-        <br>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-    
-  </body>
-</html>
+:ET
