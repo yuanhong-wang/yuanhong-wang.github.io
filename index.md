@@ -5,8 +5,8 @@ layout: homepage
 ## About Me
 
 Greetings! I am currently a second-year Ph.D. student at Beihang University.
-My main research interests lie in relational statistic learning theory and graph mining, designing and analyzing machine learning algorithms for structure data from both          theoretical and practice aspects.
-I also have some experiences about building deep learning framework and benchmarking its performace.
+My main research interests lie in relational statistic learning and graph mining, designing and analyzing machine learning algorithms for structure data from both theoretical and practice aspects.
+I also have some experiences in building deep learning framework and benchmarking its performace.
 I am supervised by [Juhua Pu](http://scse.buaa.edu.cn/info/1183/8281.htm).
 I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang) and [Ondřej Kuželka](https://ida.fel.cvut.cz/~kuzelka/).
 
@@ -20,6 +20,7 @@ I was an SDE with Microsoft China before enrolling in the Ph.D. program.
 
 ## News
 
+- **[Aug. 2022]** Serve as a PC member in AAAI 2023.
 - **[Feb. 2021]** Our paper about relational marginal polytope and approximate WFOMC is accepted to IJCAI 2021.
 
 ## Publications
