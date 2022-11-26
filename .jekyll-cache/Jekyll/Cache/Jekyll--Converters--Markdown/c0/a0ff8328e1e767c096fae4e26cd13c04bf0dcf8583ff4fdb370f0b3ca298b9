@@ -1,13 +1,13 @@
-I"�<h2 id="about-me">About Me</h2>
+I"�<h2 id="about-me">About Me</h2>
 
-<p>Greetings! I am currently a second-year Ph.D. student at Beihang University.
-My main research interests lie in relational statistic learning theory and graph mining, designing and analyzing machine learning algorithms for structure data from both          theoretical and practice aspects.
-I also have some experiences about building deep learning framework and benchmarking its performace.
+<p>Greetings! I am currently a third-year Ph.D. student at Beihang University.
+My main research interests lie in relational statistic learning and graph mining, designing and analyzing machine learning algorithms for structure data from both theoretical and practice aspects.
+I also have some experiences in building deep learning framework and benchmarking its performace.
 I am supervised by <a href="http://scse.buaa.edu.cn/info/1183/8281.htm">Juhua Pu</a>.
 I am lucky to collaborate with <a href="https://disco.ethz.ch/members/yuwang">Yuyi Wang</a> and <a href="https://ida.fel.cvut.cz/~kuzelka/">Ondřej Kuželka</a>.</p>
 
 <p>I received my master’s degree in Computer Science at Beihang University and bachelor’s degree in Mathematics at Beijing Jiaotong University.
-I was an SDE with Microsoft China before enrolling in the Ph.D. program.</p>
+I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.</p>
 
 <h2 id="research-interests">Research Interests</h2>
 
@@ -19,6 +19,7 @@ I was an SDE with Microsoft China before enrolling in the Ph.D. program.</p>
 <h2 id="news">News</h2>
 
 <ul>
+  <li><strong>[Aug. 2022]</strong> Serve as a PC member in AAAI 2023.</li>
   <li><strong>[Feb. 2021]</strong> Our paper about relational marginal polytope and approximate WFOMC is accepted to IJCAI 2021.</li>
 </ul>
 
@@ -72,9 +73,4 @@ International Conference on Web-Age Information Management <strong>WAIM 2016</st
 [<a href="./assets/papers/WAIM2016.pdf">PDF</a>]</p>
   </li>
 </ul>
-
-<!-- ## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV. -->
 :ET
