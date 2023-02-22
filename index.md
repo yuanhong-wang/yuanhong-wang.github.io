@@ -30,8 +30,8 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   **Yuanhong Wang**, Timothy van Bremen, Juhua Pu, Yuyi Wang, Ondrej Kuzelka
   <br>
   International Joint Conference on Artificial Intelligence. **IJCAI 2021**.
-  <br>
-  [[PDF](./assets/papers/irmp.pdf)]<i>Oral</i>
+  <br><i>Oral</i>
+  [[online](https://www.ijcai.org/proceedings/2021/586)]
   <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
 - **AMENDER: An attentive and aggregate multi-layered network for dataset recommendation**
@@ -39,8 +39,8 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   Yujun Chen, **Yuanhong Wang**, Yutao Zhang, Juhua Pu, Xiangliang Zhang
   <br>
   IEEE International Conference on Data Mining. **ICDM 2019**.
-  <br>
-  [[PDF](./assets/papers/ICDM2019.pdf)] <i>Short paper</i>
+  <br><i>Short paper</i>
+  [[online](https://ieeexplore.ieee.org/document/8970713)]
 
 - **NEGAN: Network embedding based on generative adversarial networks**
   <br>
@@ -48,15 +48,15 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   <br>
   International Joint Conference on Neural Networks. **IJCNN 2018**.
   <br>
-  [[PDF](./assets/papers/IJCNN2018.pdf)]
+  [[online](https://ieeexplore.ieee.org/document/8489481)]
 
 - **On the ERM principle with networked data**
   <br>
   **Yuanhong Wang**, Yuyi Wang, Xingwu Liu, and Juhua Pu
   <br>
   Thirty-Second AAAI Conference on Artificial Intelligence. **AAAI 2018**.
-  <br>
-  [[PDF](./assets/papers/AAAI2018.pdf)]<i>Oral</i>
+  <br><i>Oral</i>
+  [[online]](https://ojs.aaai.org/index.php/AAAI/article/view/11643)[[full version](https://arxiv.org/abs/1711.04297)]
 
 - **Detecting Anomaly in Traffic Flow from Road Similarity Analysis**
   <br>
@@ -64,4 +64,4 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   <br>
   International Conference on Web-Age Information Management **WAIM 2016**.
   <br>
-  [[PDF](./assets/papers/WAIM2016.pdf)]
+  [[online](https://link.springer.com/chapter/10.1007/978-3-319-39958-4_8)]
