@@ -20,8 +20,16 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 
 ## News
 
+- **[Mar. 2023]** Sampling for the full FO2 fragment is now **lifted**! See our [new paper](https://arxiv.org/abs/2302.02730).
 - **[Aug. 2022]** Serve as a PC member in AAAI 2023.
-- **[Feb. 2021]** Our paper about relational marginal polytope and approximate WFOMC is accepted to IJCAI 2021.
+
+## Preprint
+
+- **On Exact Sampling in the Two-Variable Fragment of First-Order Logic**
+  <br>
+  **Yuanhong Wang**, Juhua Pu, Yuyi Wang, Ondřej Kuželka
+  <br>
+  [[arxiv](https://arxiv.org/abs/2302.02730)]
 
 ## Publications
 
