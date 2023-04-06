@@ -20,18 +20,20 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 
 ## News
 
-- **[Mar. 2023]** Sampling for the full FO2 fragment is now **lifted**! See our [new paper](https://arxiv.org/abs/2302.02730).
+- **[Mar. 2023]** One paper is accepted by LICS 2023. Sampling for the **full FO2 fragment** is now lifted!
 - **[Aug. 2022]** Serve as a PC member in AAAI 2023.
 
-## Preprint
+<!-- ## Preprint -->
+
+## Publications
 
 - **On Exact Sampling in the Two-Variable Fragment of First-Order Logic**
   <br>
   **Yuanhong Wang**, Juhua Pu, Yuyi Wang, Ondřej Kuželka
   <br>
+  Annual ACM/IEEE Symposium on Logic in Computer Science. **LICS 2023**
+  <br>
   [[arxiv](https://arxiv.org/abs/2302.02730)]
-
-## Publications
 
 - **Fast Algorithms for Relational Marginal Polytopes**
   <br>
@@ -40,7 +42,6 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   International Joint Conference on Artificial Intelligence. **IJCAI 2021**.
   <br><i>Oral</i>
   [[online](https://www.ijcai.org/proceedings/2021/586)]
-  <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
 - **AMENDER: An attentive and aggregate multi-layered network for dataset recommendation**
   <br>
