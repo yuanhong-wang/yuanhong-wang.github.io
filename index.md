@@ -35,7 +35,7 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   <br>
   Annual ACM/IEEE Symposium on Logic in Computer Science. **LICS 2023**
   <br>
-  [[arxiv](https://arxiv.org/abs/2302.02730)]
+  [[online](https://ieeexplore.ieee.org/document/10175742)][[arxiv](https://arxiv.org/abs/2302.02730)]
 
 - **Fast Algorithms for Relational Marginal Polytopes**
   <br>
