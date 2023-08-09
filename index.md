@@ -23,7 +23,6 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 - **[Jul. 2023]** Visit CTU in Prague. Hello, Prague!
 - **[Aug. 2022]** Serve as a PC member in AAAI 2024.
 - **[Mar. 2023]** One paper is accepted by LICS 2023. Sampling for the **full FO2 fragment** is now lifted!
-- **[Aug. 2022]** Serve as a PC member in AAAI 2023.
 
 <!-- ## Preprint -->
 
