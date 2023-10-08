@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Greetings! I am currently a third-year Ph.D. student at Beihang University.
+Greetings! I am currently a fourth-year Ph.D. student at Beihang University.
 My main research interests lie in relational statistic learning and graph mining, designing and analyzing machine learning algorithms for structure data from both theoretical and practice aspects.
 I also have some experiences in building deep learning framework and benchmarking its performace.
 I am supervised by [Juhua Pu](http://scse.buaa.edu.cn/info/1183/8281.htm).
