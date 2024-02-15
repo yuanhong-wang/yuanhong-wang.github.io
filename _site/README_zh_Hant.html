@@ -1,0 +1,154 @@
+<h3 id="這份說明文檔僅將文字從簡體中文轉化為繁體中文並沒有針對繁體中文地區的名詞和使用習慣進行優化如果有錯誤或者表述不清楚的內容可以參照英文版本歡迎通過-pull-requests-更正該文檔">這份說明文檔僅將文字從簡體中文轉化為繁體中文，並沒有針對繁體中文地區的名詞和使用習慣進行優化。如果有錯誤或者表述不清楚的內容，可以參照<a href="https://github.com/yaoyao-liu/minimal-light/blob/main/README.md">英文版本</a>。歡迎通過 <a href="https://github.com/yaoyao-liu/minimal-light/pulls">pull requests</a> 更正該文檔。</h3>
+
+<h1 id="minimal-light-主題">Minimal Light 主題</h1>
+
+<p><a href="https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE"><img src="https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&amp;logo=creative-commons&amp;color=EF9421" alt="LICENSE" /></a>
+<a href="https://rubygems.org/gems/minimal-light"><img src="https://img.shields.io/gem/v/minimal-light?style=flat-square&amp;logo=rubygems&amp;color=E9573F" alt="gem" /></a>
+<a href="https://jekyllrb.com/"><img src="https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg?style=flat-square&amp;logo=jekyll" alt="Jekyll" /></a>
+<a href="https://travis-ci.com/yaoyao-liu/minimal-light"><img src="https://img.shields.io/travis/com/yaoyao-liu/minimal-light?style=flat-square&amp;logo=travis-ci&amp;color=3EAAAF" alt="Build Status" /></a></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>[<a href="https://minimal-light.yyliu.net/">在線演示</a>] [<a href="https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md">简体中文</a></td>
+      <td><a href="https://github.com/yaoyao-liu/minimal-light/blob/master/README.md">English</a></td>
+      <td><a href="https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md">Deutsche</a>]</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>這個項目包含我主頁的源代碼. 基於 GitHub 官方主題之一 <a href="https://github.com/orderedlist/minimal">minimal</a> 創建</em>
+<br />
+<em>如果您喜歡這個項目，歡迎您使用和分享</em></p>
+
+<h2 id="項目特點">項目特點</h2>
+
+<ul>
+  <li>簡單優雅的學術個人主頁模板</li>
+  <li>基於 Jekyll, 可以在 GitHub Pages 服務下自動部署</li>
+  <li>基本的搜索引擎優化</li>
+  <li>移動端適配</li>
+  <li>支持 Markdown</li>
+  <li>支持自動的暗黑模式</li>
+</ul>
+
+<h2 id="使用指南">使用指南</h2>
+<h3 id="在github上使用">在GitHub上使用</h3>
+
+<p>只要在你的項目中添加如下內容的<code class="language-plaintext highlighter-rouge">_config.yml</code>文件，GitHub Pages 服務就會使用該主題部署網頁:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">remote_theme</span><span class="pi">:</span> <span class="s">yaoyao-liu/minimal-light</span>
+</code></pre></div></div>
+<p>請注意：添加上述內容到你的項目，會直接應用這個倉庫的所有的默認設置。</p>
+
+<p>如果你希望編輯任何文件（例如：<code class="language-plaintext highlighter-rouge">index.md</code>)，你仍需要把該文件拷貝到你的項目中。</p>
+
+<p>你也可以直接 fork 這個倉庫(或者<a href="https://docs.github.com/cn/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template">使用這個倉庫作為模板</a>)，然後把名字改為<code class="language-plaintext highlighter-rouge">your-username.github.io</code>.</p>
+
+<p>然後，你可以根據<a href="https://docs.github.com/cn/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site">這裡的說明</a>開啟這個倉庫的GitHub Pages服務。</p>
+
+<h4 id="在github上使用自定義域名">在GitHub上使用自定義域名</h4>
+
+<p>在你的 DNS 設置中添加如下的<code class="language-plaintext highlighter-rouge">CNAME</code>解析記錄：</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Host: 根據需求自定義，例如： "www" 
+Target / Canonical name: your-username.github.io.
+TTL: 10 min
+</code></pre></div></div>
+<p>你也可以添加如下的<code class="language-plaintext highlighter-rouge">A</code>解析記錄（如果無法使用<code class="language-plaintext highlighter-rouge">CNAME</code>記錄的話）：</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Host: 根據需求自定義，例如 "www" 或 "@"
+IP: 185.199.108.153
+    185.199.109.153
+    185.199.110.153
+    185.199.111.153
+TTL: 10 min
+</code></pre></div></div>
+<p>然後，編輯這個倉庫中 <a href="./CNAME">CNAME</a> 文件的內容為你自定義的域名。</p>
+
+<h3 id="通過jekyll在本地使用">通過Jekyll在本地使用</h3>
+
+<p><em>首先你需要安裝 <a href="https://www.ruby-lang.org/en/">Ruby</a> 和 <a href="https://jekyllrb.com/">Jekyll</a>.</em></p>
+
+<p>克隆這個項目:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/yaoyao-liu/minimal-light.git
+<span class="nb">cd </span>minimal-light
+</code></pre></div></div>
+<p>安裝並運行:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">install
+</span>bundle <span class="nb">exec </span>jekyll server
+</code></pre></div></div>
+<p>在<code class="language-plaintext highlighter-rouge">localhost</code>預覽網頁:
+<a href="http://localhost:4000">http://localhost:4000</a>. 
+你可以在<code class="language-plaintext highlighter-rouge">_site</code>文件夾中找到 html 文件.</p>
+
+<h2 id="自定義內容">自定義內容</h2>
+
+<h3 id="配置變量">配置變量</h3>
+
+<p>Minimal Light 主題有以下的變量, 你可以在<code class="language-plaintext highlighter-rouge">_config.yml</code>文件中修改:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="s">你的名字</span>
+<span class="na">affiliation</span><span class="pi">:</span> <span class="s">你的單位</span>
+<span class="na">email</span><span class="pi">:</span> <span class="s">yourname (at) example.edu</span>
+<span class="na">google_scholar</span><span class="pi">:</span> <span class="s">https://scholar.google.com/</span>
+<span class="na">github_link</span><span class="pi">:</span> <span class="s">https://github.com/yaoyao-liu/minimal-light</span>
+<span class="na">linkedin</span><span class="pi">:</span> <span class="s">https://www.linkedin.com/</span>
+<span class="na">avatar</span><span class="pi">:</span> <span class="s">./assets/img/avatar.png</span>
+<span class="na">google_analytics</span><span class="pi">:</span> <span class="s">UA-111540567-4</span>
+<span class="na">favicon</span><span class="pi">:</span> <span class="s">./assets/img/favicon.png</span>
+<span class="na">favicon_dark</span><span class="pi">:</span> <span class="s">./assets/img/favicon-dark.png</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s">在這裡輸入網頁描述.</span>
+<span class="na">canonical</span><span class="pi">:</span> <span class="s">https://minimal-light.yyliu.net/</span>
+<span class="na">remote_theme</span><span class="pi">:</span> <span class="s">yaoyao-liu/minimal-light</span>
+</code></pre></div></div>
+<h3 id="編輯-indexmd">編輯 <code class="language-plaintext highlighter-rouge">index.md</code></h3>
+
+<p>創建<code class="language-plaintext highlighter-rouge">index.md</code>並添加你的個人信息(如：發表的論文，研究課題等).</p>
+
+<h3 id="網頁樣式css">網頁樣式（CSS)</h3>
+
+<p>如果你需要修改網頁的風格（基於 CSS）:</p>
+
+<ol>
+  <li>在你的項目中創建<code class="language-plaintext highlighter-rouge">/assets/css/style.scss</code>文件</li>
+  <li>
+    <p>在該文件的頂端加入如下內容:</p>
+
+    <div class="language-scss highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="nt">---</span>
+ <span class="nt">---</span>
+
+ <span class="o">@</span><span class="nt">import</span> <span class="s2">"minimal-light"</span><span class="p">;</span>
+</code></pre></div>    </div>
+  </li>
+  <li>在<code class="language-plaintext highlighter-rouge">@import</code>那一行添加自定義 CSS (或 Sass)格式</li>
+</ol>
+
+<h3 id="網頁樣式基于-html">網頁樣式（基于 html）</h3>
+
+<p>如果你需要修改網頁的 html 樣式:</p>
+
+<ol>
+  <li>從本項目中<a href="https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html">複製原始模板</a><br />(<em>小提示: 點擊”raw “可以直接顯示原始文件, 拷貝起來更方便</em>)</li>
+  <li>在你的項目中創建<code class="language-plaintext highlighter-rouge">/_layouts/homepage.html</code>文件</li>
+  <li>把第一步中復制的原始模板粘貼進去</li>
+  <li>根據自己的需求修改 html 文件</li>
+</ol>
+
+<h2 id="許可證">許可證</h2>
+
+<p>這個項目使用 <a href="https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE">Creative Commons Zero v1.0 Universal</a> 許可證.</p>
+
+<h2 id="致謝">致謝</h2>
+
+<p>我們的項目用到了以下項目的源代碼:</p>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/pages-themes/minimal">pages-themes/minimal</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/orderedlist/minimal">orderedlist/minimal</a></p>
+  </li>
+</ul>

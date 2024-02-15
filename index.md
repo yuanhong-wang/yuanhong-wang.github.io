@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Greetings! I am currently a fourth-year Ph.D. student at Beihang University.
+Greetings! I am currently a final year Ph.D. student at Beihang University.
 My main research interests lie in relational statistic learning and graph mining, designing and analyzing machine learning algorithms for structure data from both theoretical and practice aspects.
 I also have some experiences in building deep learning framework and benchmarking its performace.
 I am supervised by [Juhua Pu](http://scse.buaa.edu.cn/info/1183/8281.htm).
@@ -83,3 +83,13 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   International Conference on Web-Age Information Management **WAIM 2016**.
   <br>
   [[online](https://link.springer.com/chapter/10.1007/978-3-319-39958-4_8)]
+
+## Reviewing
+
+### Conference PC Member
+
+- AAAI 2022,2023,2024
+
+### Journal Reviewing
+
+- Artificial Intelligence Communications (AIC)

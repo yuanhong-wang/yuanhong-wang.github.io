@@ -1,0 +1,154 @@
+<h3 id="diese-datei-wird-automatisch-von-google-translate-übersetzt-wenn-es-fehler-gibt-lesen-sie-bitte-die-englische-version-und-erstellen-sie-eine-pull-anfrage-um-diese-zu-beheben-vielen-dank">Diese Datei wird automatisch von <a href="https://translate.google.com/">Google Translate</a> übersetzt. Wenn es Fehler gibt, lesen Sie bitte <a href="https://github.com/yaoyao-liu/minimal-light/blob/master/README.md">die englische Version</a> und erstellen Sie eine <a href="https://github.com/yaoyao-liu/minimal-light/pulls">Pull-Anfrage</a>, um diese zu beheben. Vielen Dank.</h3>
+<h1 id="das-minimal-light-thema">Das Minimal Light Thema</h1>
+
+<p><a href="https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE"><img src="https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&amp;logo=creative-commons&amp;color=EF9421" alt="LICENSE" /></a>
+<a href="https://rubygems.org/gems/minimal-light"><img src="https://img.shields.io/gem/v/minimal-light?style=flat-square&amp;logo=rubygems&amp;color=E9573F" alt="gem" /></a>
+<a href="https://jekyllrb.com/"><img src="https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg?style=flat-square&amp;logo=jekyll" alt="Jekyll" /></a>
+<a href="https://travis-ci.com/yaoyao-liu/minimal-light"><img src="https://img.shields.io/travis/com/yaoyao-liu/minimal-light?style=flat-square&amp;logo=travis-ci&amp;color=3EAAAF" alt="Build Status" /></a></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>[<a href="https://minimal-light.yyliu.net/">Demo</a>]  [<a href="https://github.com/yaoyao-liu/minimal-light/blob/master/README.md">English</a></td>
+      <td><a href="https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md">简体中文</a></td>
+      <td><a href="https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md">繁體中文</a>]</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Dies ist der Quellcode meiner Homepage. Ich baue diese Website basierend auf <a href="https://github.com/orderedlist/minimal">minimal</a>.</em>
+<br />
+<em>Sie können den Quellcode jederzeit verwenden und freigeben.</em></p>
+
+<h2 id="eigenschaften">Eigenschaften</h2>
+
+<ul>
+  <li>Einfaches und elegantes persönliches Homepage-Thema</li>
+  <li>Jekyll-Theme, wird automatisch von GitHub-Seiten bereitgestellt</li>
+  <li>Grundlegende Suchmaschinenoptimierung</li>
+  <li>Handyfreundlich</li>
+  <li>Support Markdown</li>
+  <li>Unterstützt den dunklen Modus</li>
+</ul>
+
+<h2 id="verwendung">Verwendung</h2>
+
+<h3 id="verwenden-auf-github">Verwenden auf GitHub</h3>
+
+<p>Um dieses Thema zu verwenden, fügen Sie dem <code class="language-plaintext highlighter-rouge">_config.yml</code> Ihres Repositorys Folgendes hinzu:</p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">remote_theme</span><span class="pi">:</span> <span class="s">yaoyao-liu/minimal-light</span>
+</code></pre></div></div>
+
+<p>Bitte beachten Sie, dass durch Hinzufügen der obigen Zeile alle Standardeinstellungen in diesem Repository direkt auf Ihre angewendet werden.</p>
+
+<p>Wenn Sie Dateien bearbeiten möchten (z. B. <code class="language-plaintext highlighter-rouge">index.md</code>), müssen Sie sie dennoch in Ihr Repository kopieren.</p>
+
+<p>Sie können dieses Repository auch verzweigen (oder <a href="https://docs.github.com/de/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template">Verwenden Sie dieses Repository als Vorlage</a>) und ändern Sie den Namen in <code class="language-plaintext highlighter-rouge">your-username.github.io</code>.</p>
+
+<p>Dann müssen Sie die GitHub-Seiten für dieses Repository aktivieren, indem Sie die Schritte <a href="https://docs.github.com/de/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site">hier</a> ausführen.</p>
+
+<h4 id="using-a-custom-domain-on-github">Using a custom domain on GitHub</h4>
+
+<p>Fügen Sie Ihrer Domain einen <code class="language-plaintext highlighter-rouge">CNAME</code>-DNS-Eintrag wie folgt hinzu:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Host: irgendwas du willst. z.B., "www" 
+Target / Canonical name: your-username.github.io.
+TTL: 10 min
+</code></pre></div></div>
+<p>Sie können anstelle des <code class="language-plaintext highlighter-rouge">CNAME</code>-Eintrags auch einen DNS-Eintrag <code class="language-plaintext highlighter-rouge">A</code> wie folgt hinzufügen:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Host: irgendwas du willst. z.B., "www" or "@"
+IP: 185.199.108.153
+    185.199.109.153
+    185.199.110.153
+    185.199.111.153
+TTL: 10 min
+</code></pre></div></div>
+
+<p>Ändern Sie dann den Inhalt der Datei <a href="./CNAME">CNAME</a> in diesem Repository in Ihre Domain.</p>
+
+<h3 id="lokal-mit-jekyll-verwenden">Lokal mit Jekyll verwenden</h3>
+
+<p><em>Sie müssen <a href="https://www.ruby-lang.org/en/">Ruby</a> und <a href="https://jekyllrb.com/">Jekyll</a> fisrt installieren.</em></p>
+
+<p>Klonen Sie dieses Repository:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/yaoyao-liu/minimal-light.git
+<span class="nb">cd </span>minimal-light
+</code></pre></div></div>
+<p>Installieren und ausführen:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">install
+</span>bundle <span class="nb">exec </span>jekyll server
+</code></pre></div></div>
+
+<p>Zeigen Sie die Live-Seite mit <code class="language-plaintext highlighter-rouge">localhost</code> an:
+<a href="http://localhost:4000">http://localhost:4000</a>. Sie können die HTML-Dateien im Ordner <code class="language-plaintext highlighter-rouge">_site</code> abrufen.</p>
+
+<h2 id="customizing">Customizing</h2>
+
+<h3 id="konfigurationsvariablen">Konfigurationsvariablen</h3>
+
+<p>Das Minimal Light-Thema berücksichtigt die folgenden Variablen, wenn es in der <code class="language-plaintext highlighter-rouge">_config.yml</code> Ihrer Site festgelegt ist:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="s">Dein Name</span>
+<span class="na">affiliation</span><span class="pi">:</span> <span class="s">Ihre Zugehörigkeit</span>
+<span class="na">email</span><span class="pi">:</span> <span class="s">yourname (at) example.edu</span>
+<span class="na">google_scholar</span><span class="pi">:</span> <span class="s">https://scholar.google.com/</span>
+<span class="na">github_link</span><span class="pi">:</span> <span class="s">https://github.com/yaoyao-liu/minimal-light</span>
+<span class="na">linkedin</span><span class="pi">:</span> <span class="s">https://www.linkedin.com/</span>
+<span class="na">avatar</span><span class="pi">:</span> <span class="s">./assets/img/avatar.png</span>
+<span class="na">google_analytics</span><span class="pi">:</span> <span class="s">UA-111540567-4</span>
+<span class="na">favicon</span><span class="pi">:</span> <span class="s">./assets/img/favicon.png</span>
+<span class="na">favicon_dark</span><span class="pi">:</span> <span class="s">./assets/img/favicon-dark.png</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s">The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.</span>
+<span class="na">canonical</span><span class="pi">:</span> <span class="s">https://minimal-light.yyliu.net/</span>
+<span class="na">remote_theme</span><span class="pi">:</span> <span class="s">yaoyao-liu/minimal-light</span>
+</code></pre></div></div>
+<h3 id="bearbeiten-von-indexmd">Bearbeiten von <code class="language-plaintext highlighter-rouge">index.md</code></h3>
+
+<p>Erstellen Sie <code class="language-plaintext highlighter-rouge">index.md</code> und fügen Sie Ihre persönlichen Daten hinzu (z. B. Veröffentlichungen, Recherchen).</p>
+
+<h3 id="stylesheet">Stylesheet</h3>
+
+<p>Wenn Sie Ihre eigenen benutzerdefinierten Stile hinzufügen möchten:</p>
+
+<ol>
+  <li>Erstellen Sie auf Ihrer Site eine Datei mit dem Namen <code class="language-plaintext highlighter-rouge">/assets/css/style.scss</code></li>
+  <li>
+    <p>Fügen Sie den folgenden Inhalt genau wie gezeigt oben in die Datei ein:</p>
+
+    <div class="language-scss highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="nt">---</span>
+ <span class="nt">---</span>
+
+ <span class="o">@</span><span class="nt">import</span> <span class="s2">"minimal-light"</span><span class="p">;</span>
+</code></pre></div>    </div>
+  </li>
+  <li>Fügen Sie jedes benutzerdefinierte CSS (oder Sass, einschließlich Importe), das Sie möchten, unmittelbar nach der Zeile <code class="language-plaintext highlighter-rouge">@import</code> hinzu</li>
+</ol>
+
+<h3 id="layouts">Layouts</h3>
+
+<p>Wenn Sie das HTML-Layout des Themas ändern möchten:</p>
+
+<ol>
+  <li><a href="https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html">Kopieren Sie die Originalvorlage</a> aus dem Repository des Themas<br />(<em>Tipp: Klicken Sie auf “raw”, um das Kopieren zu vereinfachen</em>)</li>
+  <li>Erstellen Sie auf Ihrer Site eine Datei mit dem Namen <code class="language-plaintext highlighter-rouge">/_layouts/homepage.html</code></li>
+  <li>Fügen Sie den im ersten Schritt kopierten Standardlayoutinhalt ein</li>
+  <li>Passen Sie das Layout nach Ihren Wünschen an</li>
+</ol>
+
+<h2 id="lizenz">Lizenz</h2>
+
+<p>Diese Arbeit unterliegt den Bestimmungen einer <a href="https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE">Creative Commons Zero v1.0 Universal</a> Lizenz.</p>
+
+<h2 id="danksagung">Danksagung</h2>
+
+<p>Unser Projekt verwendet den Quellcode aus den folgenden Repositorys:</p>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/pages-themes/minimal">pages-themes/minimal</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/orderedlist/minimal">orderedlist/minimal</a></p>
+  </li>
+</ul>
