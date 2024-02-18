@@ -36,6 +36,13 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 
 ## Publications
 
+- **AdaMO: Adaptive Meta-optimization for Cold-start Recommendation**
+  <br>
+  Juhua Pu, **Yuanhong Wang**, Fang Nan, Xingwu Liu
+  <br>
+  Neurocomputing (to appear)
+  <br>
+
 - **On Exact Sampling in the Two-Variable Fragment of First-Order Logic**
   <br>
   **Yuanhong Wang**, Juhua Pu, Yuyi Wang, Ondřej Kuželka
