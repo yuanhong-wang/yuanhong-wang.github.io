@@ -40,8 +40,9 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   <br>
   Juhua Pu, **Yuanhong Wang**, Fang Nan, Xingwu Liu
   <br>
-  Neurocomputing (to appear)
+  Neurocomputing
   <br>
+  [[online](https://www.sciencedirect.com/science/article/pii/S0925231224001887)]
 
 - **On Exact Sampling in the Two-Variable Fragment of First-Order Logic**
   <br>
