@@ -13,6 +13,8 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 I received my master's degree in Computer Science at Beihang University and bachelor's degree in Mathematics at Beijing Jiaotong University.
 I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 
+:bangbang: **I am currently actively seeking academic positions beginning in 2024. Please feel free to reach out to discuss potential opportunities.(我即将在今年完成博士学业，欢迎各类教职或者科研院所的机会。)**
+
 ## Research Interests
 
 - **Statistical Machine Learning:** Lifted Inference and Sampling, non-i.i.d. Learning
