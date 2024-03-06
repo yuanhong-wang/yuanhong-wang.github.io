@@ -98,7 +98,7 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 
 ### Conference PC Member
 
-- AAAI 2022,2023,2024
+- AAAI 2023,2024
 
 ### Journal Reviewing
 
