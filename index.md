@@ -26,17 +26,15 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 - **[Aug. 2022]** Serve as a PC member in AAAI 2024.
 - **[Mar. 2023]** One paper is accepted by LICS 2023. Sampling for the **full FO2 fragment** is now lifted!
 
-## Preprint
+## Publications
 
 - **Lifted Algorithms for Symmetric Weighted First-Order Model Sampling**
   <br>
   **Yuanhong Wang**, Juhua Pu, Yuyi Wang, Ondřej Kuželka
   <br>
-  (Under review)
+  (Artificial Intelligence, AIJ)
   <br>
-  [[arxiv](https://arxiv.org/abs/2308.08828)]
-
-## Publications
+  (to appear)[[arxiv](https://arxiv.org/abs/2308.08828)]
 
 - **AdaMO: Adaptive Meta-optimization for Cold-start Recommendation**
   <br>
