@@ -32,7 +32,7 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   <br>
   **Yuanhong Wang**, Juhua Pu, Yuyi Wang, Ondřej Kuželka
   <br>
-  (Artificial Intelligence, AIJ)
+  Artificial Intelligence, **AIJ**
   <br>
   (to appear)[[arxiv](https://arxiv.org/abs/2308.08828)]
 
@@ -51,6 +51,14 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   Annual ACM/IEEE Symposium on Logic in Computer Science. **LICS 2023**
   <br>
   [[online](https://ieeexplore.ieee.org/document/10175742)][[arxiv](https://arxiv.org/abs/2302.02730)]
+
+- **Domain-lifted sampling for universal two-variable logic and extensions**
+  <br>
+  **Yuanhong Wang**, Timothy Van Bremen, Yuyi Wang, and Ondřej Kuželka 
+  <br>
+  The 36th AAAI Conference on Artificial Intelligence. **AAAI 2022**
+  <br>
+  [[online](https://ojs.aaai.org/index.php/AAAI/article/view/21246)]
 
 - **Fast Algorithms for Relational Marginal Polytopes**
   <br>
