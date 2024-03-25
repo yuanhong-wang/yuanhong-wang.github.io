@@ -34,7 +34,7 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
   <br>
   Artificial Intelligence, **AIJ**
   <br>
-  (to appear)[[arxiv](https://arxiv.org/abs/2308.08828)]
+  [[online](https://doi.org/10.1016/j.artint.2024.104114)][[arxiv](https://arxiv.org/abs/2308.08828)]
 
 - **AdaMO: Adaptive Meta-optimization for Cold-start Recommendation**
   <br>
