@@ -109,4 +109,5 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 
 ### Journal Reviewing
 
+- Neurocomputing
 - Artificial Intelligence Communications (AIC)
