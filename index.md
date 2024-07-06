@@ -29,6 +29,12 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 
 ## Publications
 
+- **A More Practical Algorithm for Weighted First-Order Model Counting with Linear Order Axiom**
+  <br>
+  Qiaolan Meng, Jan Tóth, **Yuanhong Wang**, Yuyi Wang and Ondřej Kuželka
+  <br>
+  ECAI 2024 (to appear)
+
 - **Lifted Algorithms for Symmetric Weighted First-Order Model Sampling**
   <br>
   **Yuanhong Wang**, Juhua Pu, Yuyi Wang, Ondřej Kuželka
