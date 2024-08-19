@@ -22,12 +22,23 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 
 ## News
 
+- **[Jul. 2024]** We provide a unifying framework for WFOMC with axioms by bridging it with graph polynomials. Preprint is available.
 - **[Mar. 2024]** Journal version of our LICS paper is accepted by AIJ, now sampling **C2** is lifted!
 - **[Jul. 2023]** Visit CTU in Prague. Hello, Prague!
 - **[Aug. 2022]** Serve as a PC member in AAAI 2024.
 - **[Mar. 2023]** One paper is accepted by LICS 2023. Sampling for the **full FO2 fragment** is now lifted!
 
-## Publications
+## Publications 
+
+(<sup>#</sup>: author order is alphabetical)
+
+- **Bridging Weighted First Order Model Counting and Graph Polynomials**
+  <br>
+  Qipeng Kuang<sup>#</sup>, Ondřej Kuželka<sup>#</sup>, **Yuanhong Wang**<sup>#</sup>, Yuyi Wang<sup>#</sup>
+  <br>
+  Preprint
+  <br>
+  [[arxiv](https://arxiv.org/abs/2407.11877)]
 
 - **A More Practical Algorithm for Weighted First-Order Model Counting with Linear Order Axiom**
   <br>
@@ -111,7 +122,7 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 
 ### Conference PC Member
 
-- AAAI 2023,2024,2025
+- AAAI 2023-2025
 
 ### Journal Reviewing
 
