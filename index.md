@@ -123,6 +123,7 @@ I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
 ### Conference PC Member
 
 - AAAI 2023-2025
+- ICLR 2025
 
 ### Journal Reviewing
 
