@@ -4,21 +4,19 @@ layout: homepage
 
 ## About Me
 
-Greetings! I am currently a final year Ph.D. student at Beihang University.
-My main research interests lie in relational statistic learning and graph mining, designing and analyzing machine learning algorithms for structure data from both theoretical and practice aspects.
-I also have some experiences in building deep learning framework and benchmarking its performace.
-I am supervised by [Juhua Pu](http://scse.buaa.edu.cn/info/1183/8281.htm).
+Greetings! I am an Assistant Professor with the School of Artificial Intelligence at [Jilin University](https://en.wikipedia.org/wiki/Jilin_University).
+My research interests lie in broad areas of Artificial Intelligence, including Statistical Relational Learning, Lifted Model Counting and Sampling, Neurosymbolic AI
+I am enthusiastic about developing efficient algorithms for probabilistic inference, learning and samples generation in **relational domains**.
+My current research focuses on:
+
+- **Efficient Inference and Sampling in Relational Domains:** lifted reasoning, lifted sampling, and their applications
+- **AI for combinatorics:** graph polynomials, model counting, and their connections with AI
+
+I obtained my Ph.D. degree and master degree in Computer Science both at Beihang University supervised by [Juhua Pu](http://scse.buaa.edu.cn/info/1183/8281.htm).
+I received bachelor degree in Mathematics at Beijing Jiaotong University.
 I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang) and [Ondřej Kuželka](https://ida.fel.cvut.cz/~kuzelka/).
 
-I received my master's degree in Computer Science at Beihang University and bachelor's degree in Mathematics at Beijing Jiaotong University.
-I was an SDE with Microsoft (Beijing) before enrolling in the Ph.D. program.
-
-‼️  **I am currently actively seeking academic positions beginning in 2024. Please feel free to reach out to discuss potential opportunities.(我即将在今年完成博士学业，欢迎各类教职或者科研院所的机会。)**
-
-## Research Interests
-
-- **Statistical Machine Learning:** Lifted Inference and Sampling, non-i.i.d. Learning
-- **Data Mining:** Graph Mining, Recommendation
+📢 **招收2025年硕士（2名）和博士研究生（1名），欢迎对以上研究方向感兴趣的同学通过邮件联系我，邮件中请注明研究兴趣并附上简历。**
 
 ## News
 
