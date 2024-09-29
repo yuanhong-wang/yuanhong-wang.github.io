@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Greetings! I am an Assistant Professor with the School of Artificial Intelligence at [Jilin University](https://en.wikipedia.org/wiki/Jilin_University).
-My research interests lie in broad areas of Artificial Intelligence, including Statistical Relational Learning, Lifted Model Counting and Sampling, Neurosymbolic AI
+My research interests lie in broad areas of Artificial Intelligence, including Statistical Relational Learning, Lifted Model Counting and Sampling, Neurosymbolic AI.
 I am enthusiastic about developing efficient algorithms for probabilistic inference, learning and samples generation in **relational domains**.
 My current research focuses on:
 
