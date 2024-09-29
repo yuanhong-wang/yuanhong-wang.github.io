@@ -20,6 +20,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ## News
 
+- **[Sep. 2024]** Join the School of Artificial Intelligence at Jilin University as an Assistant Professor.
 - **[Jul. 2024]** We provide a unifying framework for WFOMC with axioms by bridging it with graph polynomials. Preprint is available.
 - **[Mar. 2024]** Journal version of our LICS paper is accepted by AIJ, now sampling **C2** is lifted!
 - **[Jul. 2023]** Visit CTU in Prague. Hello, Prague!
