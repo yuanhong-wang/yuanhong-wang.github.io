@@ -43,7 +43,9 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   <br>
   Qiaolan Meng, Jan Tóth, **Yuanhong Wang**, Yuyi Wang and Ondřej Kuželka
   <br>
-  ECAI 2024 (to appear)
+  European Conference on Artificial Intelligence. **ECAI 2024**
+  <br>
+  [[online](https://ebooks.iospress.nl/doi/10.3233/FAIA240858)]
 
 - **Lifted Algorithms for Symmetric Weighted First-Order Model Sampling**
   <br>
