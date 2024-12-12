@@ -16,7 +16,7 @@ I obtained my Ph.D. degree and master degree in Computer Science both at Beihang
 I received bachelor degree in Mathematics at Beijing Jiaotong University.
 I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang) and [Ondřej Kuželka](https://ida.fel.cvut.cz/~kuzelka/).
 
-📢 **招收2025年硕士（1名）和~~博士研究生（1名）~~，欢迎对以上研究方向感兴趣的同学通过邮件联系我，邮件中请注明研究兴趣并附上简历。**
+📢 **招收2025年硕士（1名）和博士研究生（1名），欢迎对以上研究方向感兴趣的同学通过邮件联系我，邮件中请注明研究兴趣并附上简历。**
 
 ## News
 
