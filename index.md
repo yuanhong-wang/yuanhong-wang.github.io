@@ -20,12 +20,11 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ## News
 
+- **[Jan. 2025]** Doctoral thesis won the 2024 Excellent Doctoral Dissertation Award of Beihang University.
 - **[Sep. 2024]** Join the School of Artificial Intelligence at Jilin University as an Assistant Professor.
 - **[Jul. 2024]** We provide a unifying framework for WFOMC with axioms by bridging it with graph polynomials. Preprint is available.
 - **[Mar. 2024]** Journal version of our LICS paper is accepted by AIJ, now sampling **C2** is lifted!
 - **[Jul. 2023]** Visit CTU in Prague. Hello, Prague!
-- **[Aug. 2022]** Serve as a PC member in AAAI 2024.
-- **[Mar. 2023]** One paper is accepted by LICS 2023. Sampling for the **full FO2 fragment** is now lifted!
 
 ## Publications 
 
@@ -118,6 +117,13 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   International Conference on Web-Age Information Management **WAIM 2016**.
   <br>
   [[online](https://link.springer.com/chapter/10.1007/978-3-319-39958-4_8)]
+
+## Awards
+
+- Excellent Doctoral Dissertation Award of Beihang University (2024, **Top 5%**)
+- Outstanding Graduate of Beihang University (2024, 2018)
+- Excellent Master Thesis Award of Beihang University (2018, **Top 5%**)
+
 
 ## Reviewing
 
