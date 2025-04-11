@@ -20,6 +20,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ## News
 
+- **[Apr. 2025]** Our paper about the model enumeration of two-variable logic is accepted by LICS 2025; enumerating models of two-variable logic is now possible in quadratic time complexity!
 - **[Jan. 2025]** Doctoral thesis won the 2024 Excellent Doctoral Dissertation Award of Beihang University.
 - **[Sep. 2024]** Join the School of Artificial Intelligence at Jilin University as an Assistant Professor.
 - **[Jul. 2024]** We provide a unifying framework for WFOMC with axioms by bridging it with graph polynomials. Preprint is available.
@@ -29,6 +30,13 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 ## Publications 
 
 (<sup>#</sup>: author order is alphabetical)
+
+- **Model Enumeration of Two-Variable Logic with Quadratic Delay Complexity**
+  <br>
+  Qiaolan Meng, Juhua Pu, Hongting Niu, Yuyi Wang, **Yuanhong Wang**, Ondřej Kuželka 
+  <br>
+  Annual ACM/IEEE Symposium on Logic in Computer Science. **LICS 2025** (to appear)
+  <br>
 
 - **Bridging Weighted First Order Model Counting and Graph Polynomials**
   <br>
