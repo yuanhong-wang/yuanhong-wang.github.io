@@ -27,7 +27,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 - **[Mar. 2024]** Journal version of our LICS paper is accepted by AIJ, now sampling **C2** is lifted!
 - **[Jul. 2023]** Visit CTU in Prague. Hello, Prague!
 
-## Publications 
+## Publications (for the full list, please check [Google Scholar](https://scholar.google.com/citations?user=08i0uJcAAAAJ&hl=en))
 
 (<sup>#</sup>: author order is alphabetical)
 
@@ -62,14 +62,6 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   <br>
   [[online](https://doi.org/10.1016/j.artint.2024.104114)][[arxiv](https://arxiv.org/abs/2308.08828)]
 
-- **AdaMO: Adaptive Meta-optimization for Cold-start Recommendation**
-  <br>
-  Juhua Pu, **Yuanhong Wang**, Fang Nan, Xingwu Liu
-  <br>
-  Neurocomputing
-  <br>
-  [[online](https://www.sciencedirect.com/science/article/pii/S0925231224001887)]
-
 - **On Exact Sampling in the Two-Variable Fragment of First-Order Logic**
   <br>
   **Yuanhong Wang**, Juhua Pu, Yuyi Wang, Ondřej Kuželka
@@ -102,14 +94,6 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   <br><i>Short paper</i>
   [[online](https://ieeexplore.ieee.org/document/8970713)]
 
-- **NEGAN: Network embedding based on generative adversarial networks**
-  <br>
-  Ban Yinfeng, Juhua Pu, Yujun Chen, **Yuanhong Wang**
-  <br>
-  International Joint Conference on Neural Networks. **IJCNN 2018**.
-  <br>
-  [[online](https://ieeexplore.ieee.org/document/8489481)]
-
 - **On the ERM principle with networked data**
   <br>
   **Yuanhong Wang**, Yuyi Wang, Xingwu Liu, and Juhua Pu
@@ -117,14 +101,6 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   Thirty-Second AAAI Conference on Artificial Intelligence. **AAAI 2018**.
   <br><i>Oral</i>
   [[online]](https://ojs.aaai.org/index.php/AAAI/article/view/11643)[[full version](https://arxiv.org/abs/1711.04297)]
-
-- **Detecting Anomaly in Traffic Flow from Road Similarity Analysis**
-  <br>
-  Xinran Liu, Xingwu Liu, **Yuanhong Wang**, Juhua Pu, Xiangliang Zhang
-  <br>
-  International Conference on Web-Age Information Management **WAIM 2016**.
-  <br>
-  [[online](https://link.springer.com/chapter/10.1007/978-3-319-39958-4_8)]
 
 ## Awards
 
@@ -142,5 +118,6 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ### Journal Reviewing
 
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - Neurocomputing
 - Artificial Intelligence Communications (AIC)
