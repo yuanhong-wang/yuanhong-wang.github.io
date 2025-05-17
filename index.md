@@ -29,11 +29,11 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ## Publications (for the full list, please check [Google Scholar](https://scholar.google.com/citations?user=08i0uJcAAAAJ&hl=en))
 
-(<sup>#</sup>: author order is alphabetical)
+(<sup>#</sup>: author order is alphabetical; <sup>*</sup>: equal contribution; <sup>†</sup>: corresponding author)
 
 - **Model Enumeration of Two-Variable Logic with Quadratic Delay Complexity**
   <br>
-  Qiaolan Meng, Juhua Pu, Hongting Niu, Yuyi Wang, **Yuanhong Wang**, Ondřej Kuželka 
+  Qiaolan Meng, Juhua Pu, Hongting Niu, Yuyi Wang, **Yuanhong Wang**<sup>†</sup>, Ondřej Kuželka 
   <br>
   Annual ACM/IEEE Symposium on Logic in Computer Science. **LICS 2025** (to appear)
   <br>
@@ -48,7 +48,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 - **A More Practical Algorithm for Weighted First-Order Model Counting with Linear Order Axiom**
   <br>
-  Qiaolan Meng, Jan Tóth, **Yuanhong Wang**, Yuyi Wang and Ondřej Kuželka
+  Qiaolan Meng<sup>*</sup>, Jan Tóth<sup>*</sup>, **Yuanhong Wang**, Yuyi Wang and Ondřej Kuželka
   <br>
   European Conference on Artificial Intelligence. **ECAI 2024**
   <br>
