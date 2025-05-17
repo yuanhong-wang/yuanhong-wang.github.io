@@ -31,12 +31,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 (<sup>#</sup>: author order is alphabetical; <sup>*</sup>: equal contribution; <sup>†</sup>: corresponding author)
 
-- **Model Enumeration of Two-Variable Logic with Quadratic Delay Complexity**
-  <br>
-  Qiaolan Meng, Juhua Pu, Hongting Niu, Yuyi Wang, **Yuanhong Wang**<sup>†</sup>, Ondřej Kuželka 
-  <br>
-  Annual ACM/IEEE Symposium on Logic in Computer Science. **LICS 2025** (to appear)
-  <br>
+### Preprints
 
 - **Bridging Weighted First Order Model Counting and Graph Polynomials**
   <br>
@@ -46,13 +41,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   <br>
   [[arxiv](https://arxiv.org/abs/2407.11877)]
 
-- **A More Practical Algorithm for Weighted First-Order Model Counting with Linear Order Axiom**
-  <br>
-  Qiaolan Meng<sup>*</sup>, Jan Tóth<sup>*</sup>, **Yuanhong Wang**, Yuyi Wang and Ondřej Kuželka
-  <br>
-  European Conference on Artificial Intelligence. **ECAI 2024**
-  <br>
-  [[online](https://ebooks.iospress.nl/doi/10.3233/FAIA240858)]
+### Journal Papers
 
 - **Lifted Algorithms for Symmetric Weighted First-Order Model Sampling**
   <br>
@@ -61,6 +50,23 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   Artificial Intelligence, **AIJ**
   <br>
   [[online](https://doi.org/10.1016/j.artint.2024.104114)][[arxiv](https://arxiv.org/abs/2308.08828)]
+
+### Conference Papers
+
+- **Model Enumeration of Two-Variable Logic with Quadratic Delay Complexity**
+  <br>
+  Qiaolan Meng, Juhua Pu, Hongting Niu, Yuyi Wang, **Yuanhong Wang**<sup>†</sup>, Ondřej Kuželka 
+  <br>
+  Annual ACM/IEEE Symposium on Logic in Computer Science. **LICS 2025** (to appear)
+  <br>
+
+- **A More Practical Algorithm for Weighted First-Order Model Counting with Linear Order Axiom**
+  <br>
+  Qiaolan Meng<sup>*</sup>, Jan Tóth<sup>*</sup>, **Yuanhong Wang**, Yuyi Wang and Ondřej Kuželka
+  <br>
+  European Conference on Artificial Intelligence. **ECAI 2024**
+  <br>
+  [[online](https://ebooks.iospress.nl/doi/10.3233/FAIA240858)]
 
 - **On Exact Sampling in the Two-Variable Fragment of First-Order Logic**
   <br>
