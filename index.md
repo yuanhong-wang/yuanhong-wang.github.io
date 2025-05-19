@@ -92,14 +92,6 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   <br><i>Oral</i>
   [[online](https://www.ijcai.org/proceedings/2021/586)]
 
-- **AMENDER: An attentive and aggregate multi-layered network for dataset recommendation**
-  <br>
-  Yujun Chen, **Yuanhong Wang**, Yutao Zhang, Juhua Pu, Xiangliang Zhang
-  <br>
-  IEEE International Conference on Data Mining. **ICDM 2019**.
-  <br><i>Short paper</i>
-  [[online](https://ieeexplore.ieee.org/document/8970713)]
-
 - **On the ERM principle with networked data**
   <br>
   **Yuanhong Wang**, Yuyi Wang, Xingwu Liu, and Juhua Pu
