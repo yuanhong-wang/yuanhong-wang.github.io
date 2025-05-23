@@ -45,7 +45,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 - **Lifted Algorithms for Symmetric Weighted First-Order Model Sampling**
   <br>
-  **Yuanhong Wang**, Juhua Pu, Yuyi Wang, Ondřej Kuželka
+  **Yuanhong Wang**<sup>†</sup>, Juhua Pu, Yuyi Wang, Ondřej Kuželka<sup>†</sup>
   <br>
   Artificial Intelligence, **AIJ**
   <br>
@@ -62,7 +62,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 - **A More Practical Algorithm for Weighted First-Order Model Counting with Linear Order Axiom**
   <br>
-  Qiaolan Meng<sup>*</sup>, Jan Tóth<sup>*</sup>, **Yuanhong Wang**, Yuyi Wang and Ondřej Kuželka
+  Qiaolan Meng<sup>*</sup>, Jan Tóth<sup>*</sup>, **Yuanhong Wang**, Yuyi Wang and Ondřej Kuželka<sup>†</sup>
   <br>
   European Conference on Artificial Intelligence. **ECAI 2024**
   <br>
@@ -86,7 +86,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 - **Fast Algorithms for Relational Marginal Polytopes**
   <br>
-  **Yuanhong Wang**, Timothy van Bremen, Juhua Pu, Yuyi Wang, Ondrej Kuzelka
+  **Yuanhong Wang**, Timothy van Bremen, Juhua Pu<sup>†</sup>, Yuyi Wang, Ondrej Kuzelka<sup>†</sup>
   <br>
   International Joint Conference on Artificial Intelligence. **IJCAI 2021**.
   <br><i>Oral</i>
@@ -94,7 +94,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 - **On the ERM principle with networked data**
   <br>
-  **Yuanhong Wang**, Yuyi Wang, Xingwu Liu, and Juhua Pu
+  **Yuanhong Wang**, Yuyi Wang, Xingwu Liu, and Juhua Pu<sup>†</sup>
   <br>
   Thirty-Second AAAI Conference on Artificial Intelligence. **AAAI 2018**.
   <br><i>Oral</i>
