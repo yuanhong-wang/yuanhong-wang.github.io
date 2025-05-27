@@ -57,8 +57,9 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   <br>
   Qiaolan Meng, Juhua Pu, Hongting Niu, Yuyi Wang, **Yuanhong Wang**<sup>†</sup>, Ondřej Kuželka 
   <br>
-  Annual ACM/IEEE Symposium on Logic in Computer Science. **LICS 2025** (to appear)
+  Annual ACM/IEEE Symposium on Logic in Computer Science. **LICS 2025** 
   <br>
+  [[arxiv](https://arxiv.org/abs/2505.19648)]
 
 - **A More Practical Algorithm for Weighted First-Order Model Counting with Linear Order Axiom**
   <br>
