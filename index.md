@@ -21,11 +21,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 ## News
 
 - **[Apr. 2025]** Our paper about the model enumeration of two-variable logic is accepted by LICS 2025; enumerating models of two-variable logic is now possible in quadratic time complexity!
-- **[Jan. 2025]** Doctoral thesis won the 2024 Excellent Doctoral Dissertation Award of Beihang University.
-- **[Sep. 2024]** Join the School of Artificial Intelligence at Jilin University as an Assistant Professor.
 - **[Jul. 2024]** We provide a unifying framework for WFOMC with axioms by bridging it with graph polynomials. Preprint is available.
-- **[Mar. 2024]** Journal version of our LICS paper is accepted by AIJ, now sampling **C2** is lifted!
-- **[Jul. 2023]** Visit CTU in Prague. Hello, Prague!
 
 ## Publications (for the full list, please check [Google Scholar](https://scholar.google.com/citations?user=08i0uJcAAAAJ&hl=en))
 
