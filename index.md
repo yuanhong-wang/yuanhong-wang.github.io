@@ -49,6 +49,14 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ### Conference Papers
 
+- **Faster Lifting for Ordered Domains with Predecessor Relations**
+  <br>
+  Kuncheng Zou, Jiahao Mai, Yonggang Zhang, Yuyi Wang, Ondřej Kuželka, **Yuanhong Wang**<sup>†</sup>, **Yi Chang**<sup>†</sup>
+  <br>
+  European Conference on Artificial Intelligence. **ECAI 2025**
+  <br>
+  [[arxiv](https://arxiv.org/abs/2507.19182)]
+
 - **Model Enumeration of Two-Variable Logic with Quadratic Delay Complexity**
   <br>
   Qiaolan Meng, Juhua Pu, Hongting Niu, Yuyi Wang, **Yuanhong Wang**<sup>†</sup>, Ondřej Kuželka 
