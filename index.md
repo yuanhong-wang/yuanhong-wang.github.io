@@ -29,13 +29,13 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ### Preprints
 
-- **Bridging Weighted First Order Model Counting and Graph Polynomials**
+- **Weighted First Order Model Counting for Two-variable Logic with Axioms on Two Relations**
   <br>
-  Qipeng Kuang<sup>#</sup>, Ondřej Kuželka<sup>#</sup>, **Yuanhong Wang**<sup>#</sup>, Yuyi Wang<sup>#</sup>
+  Qipeng Kuang, Václav Kůla, Ondřej Kuželka, Yuanhong Wang, Yuyi Wang
   <br>
   Preprint
   <br>
-  [[arxiv](https://arxiv.org/abs/2407.11877)]
+  [[arxiv](https://arxiv.org/abs/2508.11515)]
 
 ### Journal Papers
 
@@ -48,6 +48,14 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   [[online](https://doi.org/10.1016/j.artint.2024.104114)][[arxiv](https://arxiv.org/abs/2308.08828)]
 
 ### Conference Papers
+
+- **Bridging Weighted First Order Model Counting and Graph Polynomials**
+  <br>
+  Qipeng Kuang<sup>#</sup>, Ondřej Kuželka<sup>#</sup>, **Yuanhong Wang**<sup>#</sup>, Yuyi Wang<sup>#</sup>
+  <br>
+  34th EACSL Annual Conference on Computer Science Logic. **CSL 2026**
+  <br>
+  [[arxiv](https://arxiv.org/abs/2407.11877)]
 
 - **Faster Lifting for Ordered Domains with Predecessor Relations**
   <br>
