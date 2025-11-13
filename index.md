@@ -49,6 +49,14 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ### Conference Papers
 
+- **Tractable Weighted First-Order Model Counting with Bounded Treewidth Binary Evidence**
+  <br>
+  Václav Kůla, Qipeng Kuang, Yuyi Wang, **Yuanhong Wang**, Ondrej Kuzelka
+  <br>
+  The Fortieth AAAI Conference on Artificial Intelligence. **AAAI 2026 (Oral)**
+  <br>
+  [[arxiv](https://arxiv.org/abs/2511.09174)]
+
 - **Bridging Weighted First Order Model Counting and Graph Polynomials**
   <br>
   Qipeng Kuang<sup>#</sup>, Ondřej Kuželka<sup>#</sup>, **Yuanhong Wang**<sup>#</sup>, Yuyi Wang<sup>#</sup>
