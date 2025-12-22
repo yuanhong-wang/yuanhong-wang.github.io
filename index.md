@@ -49,6 +49,14 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ### Conference Papers
 
+- **First-Order and Second-Order Model Counting Meet Stable Marriages, Stable Roommates, and Stable Diners**
+  <br>
+  Václav Kůla, Jan Tóth, **Yuanhong Wang**, Yuyi Wang, Ondrej Kuzelka
+  <br>
+  The 25th International Conference on Autonomous Agents and Multiagent Systems. **AAMAS 2026 (Oral)**
+  <br>
+  (to appear)
+
 - **Tractable Weighted First-Order Model Counting with Bounded Treewidth Binary Evidence**
   <br>
   Václav Kůla, Qipeng Kuang, Yuyi Wang, **Yuanhong Wang**, Ondrej Kuzelka
@@ -81,14 +89,6 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   <br>
   [[online](https://www.computer.org/csdl/proceedings-article/lics/2025/790000a301/2aFJXRk0IuI)][[arxiv](https://arxiv.org/abs/2505.19648)]
 
-- **A More Practical Algorithm for Weighted First-Order Model Counting with Linear Order Axiom**
-  <br>
-  Qiaolan Meng<sup>*</sup>, Jan Tóth<sup>*</sup>, **Yuanhong Wang**, Yuyi Wang and Ondřej Kuželka<sup>†</sup>
-  <br>
-  European Conference on Artificial Intelligence. **ECAI 2024**
-  <br>
-  [[online](https://ebooks.iospress.nl/doi/10.3233/FAIA240858)]
-
 - **On Exact Sampling in the Two-Variable Fragment of First-Order Logic**
   <br>
   **Yuanhong Wang**, Juhua Pu, Yuyi Wang, Ondřej Kuželka
@@ -104,14 +104,6 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   The 36th AAAI Conference on Artificial Intelligence. **AAAI 2022**
   <br>
   [[online](https://ojs.aaai.org/index.php/AAAI/article/view/21246)]
-
-- **Fast Algorithms for Relational Marginal Polytopes**
-  <br>
-  **Yuanhong Wang**, Timothy van Bremen, Juhua Pu<sup>†</sup>, Yuyi Wang, Ondrej Kuzelka<sup>†</sup>
-  <br>
-  International Joint Conference on Artificial Intelligence. **IJCAI 2021**.
-  <br><i>Oral</i>
-  [[online](https://www.ijcai.org/proceedings/2021/586)]
 
 - **On the ERM principle with networked data**
   <br>
