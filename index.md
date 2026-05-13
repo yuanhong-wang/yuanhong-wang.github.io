@@ -29,13 +29,13 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ### Preprints
 
-- **Weighted First Order Model Counting for Two-variable Logic with Axioms on Two Relations**
+- **A Fast Model Counting Algorithm for Two-Variable Logic with Counting and Modulo Counting Quantifiers**
   <br>
-  Qipeng Kuang, Václav Kůla, Ondřej Kuželka, Yuanhong Wang, Yuyi Wang
+  Shixin Sun, Astrid Klipfel, Ondřej Kuželka, **Yuanhong Wang**<sup>†</sup>, Yi Chang<sup>†</sup>
   <br>
   Preprint
   <br>
-  [[arxiv](https://arxiv.org/abs/2508.11515)]
+  [[arxiv](https://arxiv.org/abs/2605.03391)]
 
 ### Journal Papers
 
@@ -49,6 +49,14 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ### Conference Papers
 
+- **On Knowledge Compilation For Two-Variable First-Order Logic**
+  <br>
+  Qiaolan Meng, Juhua Pu, Hongting Niu, Yuyi Wang, **Yuanhong Wang**<sup>†</sup>, Ondřej Kuželka<sup>†</sup>
+  <br>
+  The 29th International Conference on Theory and Applications of Satisfiability Testing. **SAT 2026** (to appear)
+  <br>
+  [[arxiv](https://arxiv.org/abs/2605.11796)]
+
 - **First-Order and Second-Order Model Counting Meet Stable Marriages, Stable Roommates, and Stable Diners**
   <br>
   Václav Kůla, Jan Tóth, **Yuanhong Wang**, Yuyi Wang, Ondrej Kuzelka
@@ -56,6 +64,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   The 25th International Conference on Autonomous Agents and Multiagent Systems. **AAMAS 2026 (Oral)**
   <br>
   (to appear)
+  [[arxiv](https://arxiv.org/abs/2511.09174)]
 
 - **Tractable Weighted First-Order Model Counting with Bounded Treewidth Binary Evidence**
   <br>
@@ -63,7 +72,6 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   <br>
   The Fortieth AAAI Conference on Artificial Intelligence. **AAAI 2026 (Oral)**
   <br>
-  [[arxiv](https://arxiv.org/abs/2511.09174)]
 
 - **Bridging Weighted First Order Model Counting and Graph Polynomials**
   <br>
@@ -71,15 +79,7 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   <br>
   34th EACSL Annual Conference on Computer Science Logic. **CSL 2026**
   <br>
-  [[arxiv](https://arxiv.org/abs/2407.11877)]
-
-- **Faster Lifting for Ordered Domains with Predecessor Relations**
-  <br>
-  Kuncheng Zou, Jiahao Mai, Yonggang Zhang, Yuyi Wang, Ondřej Kuželka, **Yuanhong Wang**<sup>†</sup>, **Yi Chang**<sup>†</sup>
-  <br>
-  European Conference on Artificial Intelligence. **ECAI 2025**
-  <br>
-  [[arxiv](https://arxiv.org/abs/2507.19182)]
+  [[online](https://drops.dagstuhl.de/storage/00lipics/lipics-vol363-csl2026/LIPIcs.CSL.2026.7/LIPIcs.CSL.2026.7.pdf)]
 
 - **Model Enumeration of Two-Variable Logic with Quadratic Delay Complexity**
   <br>
@@ -104,14 +104,6 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   The 36th AAAI Conference on Artificial Intelligence. **AAAI 2022**
   <br>
   [[online](https://ojs.aaai.org/index.php/AAAI/article/view/21246)]
-
-- **On the ERM principle with networked data**
-  <br>
-  **Yuanhong Wang**, Yuyi Wang, Xingwu Liu, and Juhua Pu<sup>†</sup>
-  <br>
-  Thirty-Second AAAI Conference on Artificial Intelligence. **AAAI 2018**.
-  <br><i>Oral</i>
-  [[online]](https://ojs.aaai.org/index.php/AAAI/article/view/11643)[[full version](https://arxiv.org/abs/1711.04297)]
 
 ## Awards
 
