@@ -16,7 +16,7 @@ I obtained my Ph.D. degree and master degree in Computer Science both at Beihang
 I received bachelor degree in Mathematics at Beijing Jiaotong University.
 I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang) and [Ondřej Kuželka](https://ida.fel.cvut.cz/~kuzelka/).
 
-📢 **招收2026年硕士（2名）~~和博士研究生（1名）~~，欢迎对以上研究方向感兴趣的同学通过邮件联系我，邮件中请注明研究兴趣并附上简历。**
+📢 **招收2027年博士研究生（1名）和硕士（2名），欢迎对以上研究方向感兴趣的同学通过邮件联系我，邮件中请注明研究兴趣并附上简历。**
 
 ## News
 
@@ -29,13 +29,11 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
 
 ### Preprints
 
-- **A Fast Model Counting Algorithm for Two-Variable Logic with Counting and Modulo Counting Quantifiers**
+- **Solving Combinatorial Counting Problems with Weighted First-Order Model Counting**
   <br>
-  Shixin Sun, Astrid Klipfel, Ondřej Kuželka, **Yuanhong Wang**<sup>†</sup>, Yi Chang<sup>†</sup>
+  **Yuanhong Wang**<sup>†</sup>, Juhua Pu, Yuxu Zhou, Yuyi Wang, Ondřej Kuželka
   <br>
-  Preprint
-  <br>
-  [[arxiv](https://arxiv.org/abs/2605.03391)]
+  [[arxiv](https://arxiv.org/abs/2605.24845)]
 
 ### Journal Papers
 
@@ -46,6 +44,14 @@ I am lucky to collaborate with [Yuyi Wang](https://disco.ethz.ch/members/yuwang)
   Artificial Intelligence, **AIJ**
   <br>
   [[online](https://doi.org/10.1016/j.artint.2024.104114)][[arxiv](https://arxiv.org/abs/2308.08828)]
+
+- **A fast model counting algorithm for two-variable logic with counting and modulo counting quantifiers**
+  <br>
+  Shixin Sun, Astrid Klipfel, Ondřej Kuželka, **Yuanhong Wang**<sup>†</sup>, Yi Chang
+  <br>
+  International Journal of Approximate Reasoning, **IJAR**
+  <br>
+  [[online]](https://www.sciencedirect.com/science/article/pii/S0888613X26002070)[[arxiv](https://arxiv.org/abs/2605.03391)]
 
 ### Conference Papers
 
